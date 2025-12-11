@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+env/
+venv/
+
+# Databases / ML model / data files
+*.db
+*.sqlite
+*.pkl
+*.csv
+
+# OS / Editor files
+.DS_Store
+.idea/
+.vscode/
